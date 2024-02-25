@@ -10,7 +10,7 @@ Fonts
 Variables
 ===============
 */
- 
+
 :root {
   /* dark shades of primary color*/
   --clr-primary-1: hsl(205, 86%, 17%);
@@ -189,7 +189,7 @@ Slider
   max-width: 80rem;
   position: relative;
   border-radius: 0.5rem;
-  /* overflow: hidden; */
+  overflow: hidden;
   margin-top: 4rem;
 }
 .slide {
@@ -264,19 +264,3 @@ Slider
     height: 65vh;
   }
 }
-/* .slide:nth-child(1){
-  left: 0;
-}
-.slide:nth-child(2){
-  left: 100%;
-}
-.slide:nth-child(3){
-  left: 200%;
-}
-.slide:nth-child(4){
-  left: 300%;
-}
-.slide{
-  transform: translateX(-100%);
-}  */
-/* negative value moves to left
