@@ -1,1 +1,1 @@
-# slider project
+# Slider projec
