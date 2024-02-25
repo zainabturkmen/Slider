@@ -1,1 +1,1 @@
- 
+ const slides = document.
