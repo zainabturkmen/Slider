@@ -7,8 +7,18 @@
  });
 
  let counter = 0;
- nextBtn.addEventListener("click", )
 
+ nextBtn.addEventListener("click", function(){
+    counter++;
+ });
+
+ prevBtn.addEventListener("click", function(){
+    counter--;
+ });
+
+ function carousel(){
+    
+ }
 
 
 
